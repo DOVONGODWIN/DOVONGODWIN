@@ -18,8 +18,8 @@
 ## 📁 Projets GitHub récents
 
 - 🔗 [portfolio](https://github.com/DOVONGODWIN/portfolio) : mon site personnel de présentation  
-- 🔗 [TOP1](https://github.com/DOVONGODWIN/TOP1) : projet académique PHP  
-- 🔗 [vs](https://github.com/DOVONGODWIN/vs) : petit projet d’essai  
+- 🔗 [TOP 1](https://github.com/DOVONGODWIN/restaurant-admin-reservation.git) : projet académique PHP  
+- 🔗 [the circle ](https://github.com/DOVONGODWIN/Site-vitrine-moderne-en-HTML-CSS-JS-et-php-Formulaire-de-contact-.git) : petit projet d’essai  
 
 ---
 
