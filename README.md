@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Salut, je suis Godwin Dovon
+🎓 Étudiant en dev à MyDigitalSchool  
+💼 Actuellement à la recherche d'une alternance à partir de **septembre 2025**  
+🌐 Passionné par le code, les interfaces modernes, et les projets concrets
 
-<!--
-**DOVONGODWIN/DOVONGODWIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 Compétences principales
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML / CSS / JavaScript  
+- PHP / MySQL  
+- Git / GitHub / VS Code
+- WordPress / Figma  
+- Frameworks : Bootstrap, Laravel *(débutant)*
+
+---
+
+## 📁 Projets GitHub récents
+
+- 🔗 [portfolio](https://github.com/DOVONGODWIN/portfolio) : mon site personnel de présentation  
+- 🔗 [TOP1](https://github.com/DOVONGODWIN/TOP1) : projet académique PHP  
+- 🔗 [vs](https://github.com/DOVONGODWIN/vs) : petit projet d’essai  
+
+---
+
+## 📫 Me contacter
+
+- ✉️ Email : godwindovon@gmail.com 
+- 💼 LinkedIn : [Mon profil LinkedIn](https://linkedin.com/in/godwin-dovon-mess656) * 
